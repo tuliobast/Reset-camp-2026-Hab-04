@@ -13,7 +13,7 @@ const PARTICIPANTS = [
   { id: 6, name: "Iara Leañez", role: "Edad: 20", img: "./Iara_Leañez-removebg-preview.png" },
   { id: 7, name: "Ludmila Rodriguez", role: "Edad: 25", img: "./Ludmila_Rodriguez-removebg-preview.png" },
   { id: 8, name: "Maria Funes", role: "Edad: 30", img: "./Maria_Sol_Funes-removebg-preview.png" },
-  { id: 9, name: "Melanie Mansilla", role: "Edad: 25", img: "./silueta_2-removebg-preview.png" },
+  { id: 9, name: "Melanie Mansilla", role: "Edad: 25", img: "./Melanie_Mansilla-removebg-preview.png" },
   { id: 10, name: "Micaela Valle", role: "Edad: 14", img: "./Micaela_Valle-removebg-preview.png" },
   { id: 11, name: "Morena Abranovich", role: "Edad: 20", img: "./Morena_Abranovich-removebg-preview.png" },
   { id: 12, name: "Sara Arce", role: "Edad: 20", img: "./Sara_Arce-removebg-preview.png" },
